@@ -2,9 +2,15 @@
 
 ## INTRO:
 
-PI R&D Inc. is a small developer-run corporation devoted to Scientific Research and Development 🔬. Based in Saskatchewan, Canada 🇨🇦.
+PI R&D Inc. is a small private developer-run corporation devoted to Scientific Research and Development 🔬. Based in Saskatchewan, 🇨🇦.
 
+## CONTRIBUTIONS:
 
+Contributions to open-source projects may be made, however, no compensation will be provided and most open source software will be licensed with MIT or an equivalently permissive license.
+
+### FUN FACTS:
+
+- Saskatchewan regularly has temperatures from +30C in the summer, to -30C in the winter! Talk about range!
 
 <!--
 
