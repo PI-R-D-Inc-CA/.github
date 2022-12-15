@@ -1,5 +1,7 @@
 # Hi there 👋
 
+Welcome to the PI R&D Inc. README.md file. Take a minute to look around and acquiant yourself.
+
 ## INTRODUCTION:
 
 PI R&D Inc. is a small private developer-run corporation devoted to Scientific Research and Development 🔬. Based in Saskatchewan, 🇨🇦.
