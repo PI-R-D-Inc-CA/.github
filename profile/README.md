@@ -14,4 +14,4 @@ Contributions to open-source projects may be made, however, no compensation will
 
 ### CONTACT US:
 
-Looking to contact us? Send an email addressed to Mr. Edwards at piranddinc@gmail.com, and he'll reply within 5 buisness days.
+Looking to contact us? Send an email addressed to Mr. Edwards at piranddinc@gmail.com, and he'll reply within 5 business days.
