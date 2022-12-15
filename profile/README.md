@@ -1,6 +1,6 @@
 # Hi there 👋
 
-Welcome to the PI R&D Inc. README.md file. Take a minute to look around and acquiant yourself.
+Welcome to the PI R&D Inc. README.md file. Feel free to take a minute to look around and acquiant yourself.
 
 ## INTRODUCTION:
 
