@@ -1,8 +1,10 @@
-## Hi there 👋
+# Hi there 👋
 
-INTRO:
+## INTRO:
 
-Based in Saskatchewan, Canada, PI R&D Inc. is a small developer-run corporation devoted to Scientific Research and Development.
+PI R&D Inc. is a small developer-run corporation devoted to Scientific Research and Development 🔬. Based in Saskatchewan, Canada 🇨🇦.
+
+
 
 <!--
 
