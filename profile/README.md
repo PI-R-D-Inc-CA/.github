@@ -18,7 +18,7 @@ Our goal is to help make the world better than it's ever been, by leveraging nex
 
 ### LOOKING TO CONTRIBUTE?:
 
-Contributions to open-source projects may be made, however, no compensation will be provided and most open source software will be licensed with MIT or an equivalently permissive license.
+Contributions to open-source projects may be made, however, no compensation will be provided and most open source software releases from this company will be licensed with MIT or an equivalently permissive license.
 
 ### FUN FACTS:
 
