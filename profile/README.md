@@ -8,14 +8,6 @@ PI R&D Inc. is a small private developer-run Corporation devoted to Scientific R
 
 Our goal is to help make the world better than it's ever been, by leveraging next-generation technologies and intuitive but well composed design.
 
-### COMPANY VALUES:
-
-- Curiosity
-- Passion
-- Integrity
-- Discipline
-- Posterity
-
 ### LOOKING TO CONTRIBUTE?:
 
 Contributions to open-source projects may be made, however, no compensation will be provided and most open source software releases from this company will be licensed with MIT or an equivalently permissive license.
